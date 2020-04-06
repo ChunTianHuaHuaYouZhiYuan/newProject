@@ -5,4 +5,6 @@
     git clone
     git add
     git commit -m 'msg'
+    git status
 ```
+czxczc
